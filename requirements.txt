@@ -1,0 +1,8 @@
+mlx-lm
+huggingface_hub
+huggingface_hub[cli]
+pandas
+llama-index-llms-mlx
+llama-index
+torch
+pyarrow
