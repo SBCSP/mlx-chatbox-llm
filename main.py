@@ -29,3 +29,4 @@ response = generate(
     verbose=True  # Shows generation stats like speed
 )
 print(response)
+
